@@ -1,0 +1,15 @@
+﻿{
+  "output": "Warning",
+  "ignore": [
+    "\\merges\\"
+  ],
+  "options": {
+    "predef": {
+      "angular": true,
+      "window": true,
+      "cordova": true,
+      "StatusBar": true
+    },
+    "node": true
+  }
+}
